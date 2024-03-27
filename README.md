@@ -11,4 +11,4 @@ With the [release of Gemini on Google Cloud Vertex AI](https://cloud.google.com/
 ## Installation
 1. Navigate to Releases in this repo and download the .zip package.
 2. In Chronicle SOAR/Security Operations, install the integration by opening the IDE and importing the package.
-3. Set up an integration via Integrations, providing the project name, service account JSON, and the [region](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini#http_request) you wish to use.
+3. Set up an integration via Integrations, providing the project name, service account JSON, and the [region](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/locations#available-regions) you wish to use.
