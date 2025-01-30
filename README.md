@@ -2,6 +2,10 @@
 
 
 ## Overview
+
+**NOTE: Google has released official support for [Vertex AI in SecOps](https://cloud.google.com/chronicle/docs/soar/marketplace-integrations/vertex-ai). It is recommended to run the official integration.**
+
+
 With the [release of Gemini on Google Cloud Vertex AI](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini), organizations can now leverage Gemini for integration into exisiting or new applications. With Chronicle SOAR/Security Operations, organizations can integrate 3rd-party APIs for use within automation & response workflows. This integration provides the ability to submit a prompt to Gemini and receive output.
 
 ## Pre-requisities
